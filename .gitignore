@@ -1,0 +1,18 @@
+# Old builds & backups (heavy: jars/saves/logs) - never in the repo
+old/
+# packwiz exports at the repo/pack root (installable files are attached to GitHub Releases)
+/*.zip
+/*.mrpack
+/pack/*.zip
+/pack/*.mrpack
+# packwiz cache / temp
+pack/.cache/
+pack/.tmp/
+# temp backups
+*.bak
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+# AI-assistant working notes - kept local
+CLAUDE.md

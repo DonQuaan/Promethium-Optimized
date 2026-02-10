@@ -1,0 +1,13 @@
+name = "Smart Particles"
+filename = "smart_particles+mc1.21.11-1.11.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "689c8363700ffe0d9faba94e015d31e401e3c4a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7469372
+project-id = 1420751

@@ -1,0 +1,3 @@
+# cache/tạm của packwiz không bao giờ thuộc pack (lỗi cũ: .cache lọt vào index + mrpack)
+.cache/
+.tmp/

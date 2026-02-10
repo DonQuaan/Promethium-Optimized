@@ -1,0 +1,2 @@
+# packwiz index.toml hashes exact bytes: never normalise line endings inside the pack
+pack/** -text

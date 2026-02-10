@@ -1,0 +1,13 @@
+name = "Better Tab Info"
+filename = "tabinfo-1.1.0 1.21.6-1.21.11 Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e47aea36072a9766a60d8440a36443bb5e21f834"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7450164
+project-id = 1420609

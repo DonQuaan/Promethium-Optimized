@@ -1,0 +1,13 @@
+name = "Promethium Optimized"
+author = "yangdawn"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "088b585b894825960ee15ab86e0b08c03efab0444866cf6e21ad9e9ae02480f3"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
