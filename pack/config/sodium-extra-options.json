@@ -190,7 +190,7 @@
         "cloud_end_multiplier": 100
       }
     },
-    "light_updates": true,
+    "light_updates": false,
     "item_frame": true,
     "armor_stand": true,
     "painting": true,

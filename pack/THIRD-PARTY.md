@@ -12,7 +12,7 @@ each file from its original host (CurseForge or Modrinth) under that author's ow
 - `SodiumTranslations.zip` — Translations for Sodium — CC0-1.0. Its CurseForge file was deleted by the author after release, so the identical file (same hash) is bundled from Modrinth. Source: https://cdn.modrinth.com/data/yfDziwn1/versions/J4u4xv6D/SodiumTranslations.zip
 
 ## Fabulously Optimized
-Pack structure, part of the configuration and the bundled *Mod Menu Helper* resource pack originate from
+Pack structure, part of the configuration originate from
 Fabulously Optimized — https://github.com/Fabulously-Optimized/fabulously-optimized — licensed under the
 BSD 3-Clause License reproduced below. Fabulously Optimized does not endorse or sponsor PO.
 

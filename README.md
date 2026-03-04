@@ -1,18 +1,18 @@
-# Promethium Optimized 1.1.0
+# Promethium Optimized 1.2.0
 
-> Archived source of **PO – Promethium Optimized 1.1.0**. Current development lives on the default branch — see the [project README](https://github.com/DonQuaan/Promethium-Optimized#readme).
+> Archived source of **PO – Promethium Optimized 1.2.0**. Current development lives on the default branch — see the [project README](https://github.com/DonQuaan/Promethium-Optimized#readme).
 
 | | |
 |---|---|
 | Minecraft | 1.21.11 |
 | Mod loader | Fabric Loader 0.18.4 |
-| Contents | 111 mods · 3 resource packs · 4 shader packs |
-| Released | 2026-03-01 on CurseForge — [original file](https://www.curseforge.com/minecraft/modpacks/promethium-optimized/files/7694300) |
+| Contents | 89 mods · 2 resource packs · 4 shader packs |
+| Released | 2026-03-04 on CurseForge — [original file](https://www.curseforge.com/minecraft/modpacks/promethium-optimized/files/7710810) |
 | Status | Legacy 1.x line (superseded by the 2.0 rebuild) |
 
 ## Install
 
-Download **`Promethium-Optimized-1.1.0.zip`** from the [GitHub release](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v1.1.0) (or the original CurseForge file above), then:
+Download **`Promethium-Optimized-1.2.0.zip`** from the [GitHub release](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v1.2.0) (or the original CurseForge file above), then:
 
 - **Prism Launcher:** *Add Instance → Import* → choose the zip.
 - **CurseForge app:** *My Modpacks → Create Custom Profile → Import* → choose the zip.

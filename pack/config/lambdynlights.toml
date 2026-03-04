@@ -1,4 +1,5 @@
 mode = "fastest"
+chunk_rebuild_scheduler = "culling"
 
 [light_sources]
 	water_sensitive_check = false
@@ -8,9 +9,9 @@ mode = "fastest"
 	glowing_effect = true
 	entities = false
 	self = true
-	tnt = "simple"
+	tnt = "off"
 	sonic_boom = true
-	creeper = "simple"
+	creeper = "off"
 	guardian_laser = true
 
 			[light_sources.settings.entities.minecraft]
@@ -48,7 +49,7 @@ mode = "fastest"
 				oak_boat = true
 				glow_item_frame = true
 				snowball = true
-				tnt = true
+				tnt = false
 				parrot = true
 				creeper = true
 				lightning_bolt = true
@@ -79,7 +80,7 @@ mode = "fastest"
 				zombie_nautilus = true
 				zombie_villager = true
 				block_display = true
-				tnt_minecart = true
+				tnt_minecart = false
 				elder_guardian = true
 				cherry_chest_boat = true
 				acacia_chest_boat = true
@@ -239,8 +240,12 @@ mode = "fastest"
 
 [debug]
 	active_dynamic_lighting_cells = false
+	cell_display_radius = 0
 	display_dynamic_lighting_chunk_rebuild = false
 	display_behavior_bounding_box = false
+	light_level_radius = 0
 
 [adaptive_ticking]
 	background_sleep = true
+	slow = 5
+	slower = 8

@@ -1,0 +1,13 @@
+name = "chunky chunks!"
+filename = "chunkychunks-fabric-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31f3a10246c2a5ca57065dcd28f2082bd30eff2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7662398
+project-id = 1344072
