@@ -2,16 +2,16 @@ mode = "fastest"
 chunk_rebuild_scheduler = "culling"
 
 [light_sources]
-	water_sensitive_check = false
+	water_sensitive_check = true
 	beam = true
 	block_entities = false
 	firefly = true
 	glowing_effect = true
-	entities = false
+	entities = true
 	self = true
-	tnt = "off"
+	tnt = "simple"
 	sonic_boom = true
-	creeper = "off"
+	creeper = "simple"
 	guardian_laser = true
 
 			[light_sources.settings.entities.minecraft]

@@ -1,0 +1,13 @@
+name = "Just Enough Resources (JER)"
+filename = "JustEnoughResources-Fabric-1.21.11-1.9.0.31.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d50553697003248b35346d15d0cc46490afa1b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7831276
+project-id = 240630

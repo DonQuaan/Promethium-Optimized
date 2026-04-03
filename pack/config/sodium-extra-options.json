@@ -155,48 +155,48 @@
     "fog_type_config": {
       "LAVA": {
         "enable": true,
-        "environment_start_multiplier": 100,
-        "environment_end_multiplier": 100,
-        "render_distance_start_multiplier": 100,
-        "render_distance_end_multiplier": 100,
-        "sky_end_multiplier": 100,
-        "cloud_end_multiplier": 100
+        "environment_start_multiplier": 300,
+        "environment_end_multiplier": 300,
+        "render_distance_start_multiplier": 300,
+        "render_distance_end_multiplier": 300,
+        "sky_end_multiplier": 300,
+        "cloud_end_multiplier": 300
       },
       "WATER": {
         "enable": true,
-        "environment_start_multiplier": 100,
-        "environment_end_multiplier": 100,
-        "render_distance_start_multiplier": 100,
-        "render_distance_end_multiplier": 100,
-        "sky_end_multiplier": 100,
-        "cloud_end_multiplier": 100
+        "environment_start_multiplier": 300,
+        "environment_end_multiplier": 300,
+        "render_distance_start_multiplier": 300,
+        "render_distance_end_multiplier": 300,
+        "sky_end_multiplier": 300,
+        "cloud_end_multiplier": 300
       },
       "POWDER_SNOW": {
         "enable": true,
-        "environment_start_multiplier": 100,
-        "environment_end_multiplier": 100,
-        "render_distance_start_multiplier": 100,
-        "render_distance_end_multiplier": 100,
-        "sky_end_multiplier": 100,
-        "cloud_end_multiplier": 100
+        "environment_start_multiplier": 300,
+        "environment_end_multiplier": 300,
+        "render_distance_start_multiplier": 300,
+        "render_distance_end_multiplier": 300,
+        "sky_end_multiplier": 300,
+        "cloud_end_multiplier": 300
       },
       "ATMOSPHERIC": {
-        "enable": true,
-        "environment_start_multiplier": 100,
-        "environment_end_multiplier": 100,
-        "render_distance_start_multiplier": 100,
-        "render_distance_end_multiplier": 100,
-        "sky_end_multiplier": 100,
-        "cloud_end_multiplier": 100
+        "enable": false,
+        "environment_start_multiplier": 300,
+        "environment_end_multiplier": 300,
+        "render_distance_start_multiplier": 300,
+        "render_distance_end_multiplier": 300,
+        "sky_end_multiplier": 300,
+        "cloud_end_multiplier": 300
       }
     },
-    "light_updates": false,
+    "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
     "painting": true,
     "piston": true,
     "beacon_beam": true,
-    "limit_beacon_beam_height": false,
+    "limit_beacon_beam_height": true,
     "enchanting_table_book": true,
     "item_frame_name_tag": true,
     "player_name_tag": true
@@ -215,7 +215,7 @@
     "recipe_toast": true,
     "system_toast": true,
     "tutorial_toast": true,
-    "instant_sneak": false,
+    "instant_sneak": true,
     "prevent_shaders": false,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1

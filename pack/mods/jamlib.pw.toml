@@ -1,0 +1,13 @@
+name = "JamLib"
+filename = "jamlib-fabric-1.3.6+1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db4445e7668b55747e75d9c8e5073d2734a73180"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7766726
+project-id = 623764

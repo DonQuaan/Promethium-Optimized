@@ -2,10 +2,10 @@
   "version": 1,
   "multilingualItemSearch": true,
   "removableDefaultLanguage": false,
-  "fallbacks": [],
-  "previousFallbacks": [
+  "fallbacks": [
     "en_us"
   ],
-  "language": "en_us",
-  "previousLanguage": "vi_vn"
+  "previousFallbacks": [],
+  "language": "vi_vn",
+  "previousLanguage": "en_us"
 }

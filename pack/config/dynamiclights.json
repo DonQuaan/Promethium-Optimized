@@ -1,5 +1,5 @@
 {
-  "enable": "WORLD",
+  "enable": "YES",
   "enable_on_fire": "WORLD",
   "enable_glowing": "WORLD",
   "enable_ghast": "WORLD",

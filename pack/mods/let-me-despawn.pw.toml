@@ -1,0 +1,13 @@
+name = "Let Me Despawn"
+filename = "LetMeDespawn-1.21.11-x-fabric-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8f0b955d47e182e27929c1240efdaa09a6d10b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7494512
+project-id = 663477
