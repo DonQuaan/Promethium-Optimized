@@ -1,0 +1,13 @@
+name = "Better Than Mending"
+filename = "BetterThanMending-2.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fcf01e24e36803872c025951ef4725abc9229dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6750756
+project-id = 264738

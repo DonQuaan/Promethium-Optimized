@@ -1,13 +1,13 @@
 name = "Too Many Entities"
-filename = "Too Many Entities 1.21.9 Fabric v1.2.1.jar"
+filename = "Too Many Entities 1.21.9 Fabric v1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d4ddc11b786298599c98a95d0205ae95cd449c70"
+hash = "39c488bf6aae60307e7b9ac5fd7ca112aa49be96"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7586243
+file-id = 7658905
 project-id = 1061284

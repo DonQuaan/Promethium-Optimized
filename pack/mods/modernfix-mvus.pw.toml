@@ -1,13 +1,13 @@
 name = "ModernFix-mVUS"
-filename = "modernfix-5.25.2-build.4.jar"
+filename = "modernfix-fabric-latest.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2ed10989c8ece2460413ed35538972157732a339"
+hash = "1e5c6a097293ca54b590bdd1abf1c038030845af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7415809
+file-id = 7354481
 project-id = 1367508

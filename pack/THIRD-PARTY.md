@@ -8,10 +8,6 @@ PO does **not** redistribute third-party mods, shaders or resource packs. The fi
 `resourcepacks/` and `shaderpacks/` are packwiz metadata (project/file IDs + hashes); your launcher downloads
 each file from its original host (CurseForge or Modrinth) under that author's own license.
 
-**Exception — files bundled in the CurseForge zip of this version** (each license allows redistribution):
-- `zRemove_SDL_Intro_v1.2.2.jar` — Remove Stardust Labs Intro Message — MIT. Not hosted on CurseForge; the original release bundled it too. License text is inside the jar. Source: https://cdn.modrinth.com/data/sk4iFZGy/versions/BHr8OLOk/zRemove_SDL_Intro_v1.2.2.jar
-- `SodiumTranslations.zip` — Translations for Sodium — CC0-1.0. Its CurseForge file was deleted by the author after release, so the identical file (same hash) is bundled from Modrinth. Source: https://cdn.modrinth.com/data/yfDziwn1/versions/J4u4xv6D/SodiumTranslations.zip
-
 ## Fabulously Optimized
 Pack structure, part of the configuration originate from
 Fabulously Optimized — https://github.com/Fabulously-Optimized/fabulously-optimized — licensed under the

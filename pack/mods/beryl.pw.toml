@@ -1,0 +1,13 @@
+name = "Beryl"
+filename = "beryl_1.21.10-0.1.3-alpha+1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYeGeBaO/versions/gSFbpAmT/beryl_1.21.10-0.1.3-alpha%2B1.jar"
+hash-format = "sha512"
+hash = "0631d92871a6313c3676db368bef4c81ec19de212662326875357f69b64d5f0957fae7ee1aea02d53c810d227f411b0c49216b2865475f48128e4ef0ff34f97f"
+
+[update]
+[update.modrinth]
+mod-id = "rYeGeBaO"
+version = "gSFbpAmT"

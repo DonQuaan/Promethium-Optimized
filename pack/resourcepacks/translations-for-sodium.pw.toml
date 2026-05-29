@@ -1,6 +1,6 @@
 name = "Translations for Sodium"
 filename = "SodiumTranslations.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yfDziwn1/versions/J4u4xv6D/SodiumTranslations.zip"

@@ -1,0 +1,13 @@
+name = "Borderless Windowed Vulkan"
+filename = "BorderlessWindowedVulkan-1.0.0+1.21.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc60cbf9c603b35fb47c6827c5bde46e91c07516"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7343078
+project-id = 1406304

@@ -1,0 +1,13 @@
+name = "Better Tab Info"
+filename = "better-tab-fabric-2.0.0 1.21.6-11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c56b1bf828154b814aa839d0124345a682cb670a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7690108
+project-id = 1420609
