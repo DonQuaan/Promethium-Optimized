@@ -1,13 +1,13 @@
 name = "Promethium Optimized"
 author = "yangdawn"
-version = "1.2.2"
+version = "2.0.0-alpha.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "48e820416c652ffbd18481eee152db2aa3f34ac000f3276a3a7bef65807afec3"
+hash = "e57da2c2dbbebd39cbf429e46de4664ae498a3f94aa0f8c46d9e241aefd388f0"
 
 [versions]
-fabric = "0.19.2"
-minecraft = "1.21.10"
+fabric = "0.19.3"
+minecraft = "1.21.1"
