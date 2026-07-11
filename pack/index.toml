@@ -5,8 +5,38 @@ file = "THIRD-PARTY.md"
 hash = "1c3d1b932ec6a817fb5bf7bf1010a46700bcb2bce658117cb44baebfd26ffa09"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "97908383e1910cdf64e2da777480b15d9510bfd84ab42ee2dd6ed778c1ba5c98"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "592fbf981561cd1b571957d5f2a25962df8d44531ad71b1a39b6d16b220a9eca"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a112512699928e5504f2e826194c60881f949902fee6c6bef5f3539fcb90db75"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "5865b87a0691290aeda1cadf899b6b965a92453497d62c2e2534d33020b66f76"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "40c8bed80d77ef7b1a5f4ddb9dc1134abd131285bcea12158e92c180c9bc2715"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "36d26044eeb09dc7a9cfc9be1970f4e2fdca97a8d9e51dc211bb026d4b63aa6a"
 metafile = true
 
 [[files]]
@@ -35,8 +65,23 @@ hash = "c86e0fe57fbe042c8444a9c63933e89b5fdd50f325bb8a9796d0e7cca8735c89"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "5f18383f769c1c296ffb4c1fa8c6aebb06cc5ff542e069ef1beff4c549a05c9e"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "8098837346ac6eb548c14b6085aadd8202455034b0808fe71c753d330c7612b6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a5faccf22c6df464c06519f17a98d439eeab519d607dbe55641a994c33b886b0"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "a48bd4d3738edab1995567d18fb769f1625a8c919408aad3b81fc806688745d2"
 metafile = true
 
 [[files]]
@@ -50,13 +95,23 @@ hash = "6f2cbc80ef66cf4d5d0e2d7cd10b4fec56c53bafb6c2398ae4acbe4848b8ca9a"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "9061305ffae432947fa0f8f73940a4c8768b0b89997956340bf5331df9102719"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "256f90ac749470d31f840935002838c49d21bc515d3f9fa9e9dfb987763618aa"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "77f3f22dd6b04c981dfe20fcdc4ed9ad2c5abb3b284143a1c64953aac3d21eb5"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "2a5d181b58557176d237842208f4fca38600a72e7ddb28cc172bc03746c8bdd6"
+file = "mods/rrls.pw.toml"
+hash = "6e15d21e167ba076dd8b1acccd4a0418e88028c8882b742612be6e44389f52fc"
 metafile = true
 
 [[files]]
@@ -72,4 +127,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a987bcd2646a2ab741e7f609b43cb2d9c9daba765323b5a77d506b0ac7f4207"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "a560c3f3e91d236b3d5db6921b931e44f8dbb3d6bd887d136146691a78b903ac"
 metafile = true
