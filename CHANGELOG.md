@@ -2,6 +2,13 @@
 
 Computed from each version's packwiz metadata. Dates: CurseForge publish date (1.x releases), file timestamps (1.2.2, estimated), commit date (2.0 alphas).
 
+## [2.0.0-alpha.3](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.0.0-alpha.3) — 2026-09-28 — alpha
+
+Minecraft 1.21.1 · Fabric Loader 0.19.3 · 26 mods
+
+- **Fix:** Ksyxis and Alternate Current were marked server-only (`side = "server"`), so launchers skipped them on client installs (alpha.2 installed 24 of 26 mods). They are now `side = "both"` and install on the client, where they run on the singleplayer integrated server.
+- No mods added, removed or updated.
+
 ## [2.0.0-alpha.2](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.0.0-alpha.2) — 2026-07-11 — alpha
 
 Minecraft 1.21.1 · Fabric Loader 0.19.3 · 26 mods

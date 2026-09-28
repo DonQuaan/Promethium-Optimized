@@ -19,6 +19,7 @@
 | [1.2.2](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v1.2.2) | 1.21.10 | 0.19.2 | 111 | 2026-05-30 (est.) | ⚠️ Unreleased · broken | source only |
 | [2.0.0-alpha.1](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.0.0-alpha.1) | 1.21.1 | 0.19.3 | 14 | 2026-07-11 | Alpha | [`Promethium-Optimized-2.0.0-alpha.1.mrpack`](https://github.com/DonQuaan/Promethium-Optimized/releases/download/v2.0.0-alpha.1/Promethium-Optimized-2.0.0-alpha.1.mrpack) |
 | [2.0.0-alpha.2](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.0.0-alpha.2) | 1.21.1 | 0.19.3 | 26 | 2026-07-11 | Alpha | [`Promethium-Optimized-2.0.0-alpha.2.mrpack`](https://github.com/DonQuaan/Promethium-Optimized/releases/download/v2.0.0-alpha.2/Promethium-Optimized-2.0.0-alpha.2.mrpack) |
+| [2.0.0-alpha.3](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.0.0-alpha.3) | 1.21.1 | 0.19.3 | 26 | 2026-09-28 | Alpha | [`Promethium-Optimized-2.0.0-alpha.3.mrpack`](https://github.com/DonQuaan/Promethium-Optimized/releases/download/v2.0.0-alpha.3/Promethium-Optimized-2.0.0-alpha.3.mrpack) |
 
 - **Want to play now?** Use **1.2.1** (Minecraft 1.21.11) — the latest release, also on [CurseForge](https://www.curseforge.com/minecraft/modpacks/promethium-optimized).
 - **2.0 (alpha)** is a clean rebuild on Minecraft 1.21.1: performance only, Sodium 0.6.13 pinned, managed with packwiz. This branch is where development happens.

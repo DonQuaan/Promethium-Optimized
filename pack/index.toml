@@ -6,7 +6,7 @@ hash = "1c3d1b932ec6a817fb5bf7bf1010a46700bcb2bce658117cb44baebfd26ffa09"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "97908383e1910cdf64e2da777480b15d9510bfd84ab42ee2dd6ed778c1ba5c98"
+hash = "7efac2c51e187ad68f2472d327bc715e26ba73983d9cc9213ef3454843957ab2"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "5f18383f769c1c296ffb4c1fa8c6aebb06cc5ff542e069ef1beff4c549a05c9e"
+hash = "e02d9b1c30a30b8ac0679de26428593e109b4560e66c9a3e26f0cd31130a9346"
 metafile = true
 
 [[files]]
