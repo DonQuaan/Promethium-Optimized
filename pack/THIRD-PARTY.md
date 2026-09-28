@@ -1,7 +1,8 @@
 # Third-party notices — Promethium Optimized
 
 Promethium Optimized (PO) is a Minecraft modpack by **yangdawn (DonQuaan)**, built as an upgraded and
-reworked derivative of **Fabulously Optimized**.
+reworked derivative of **Fabulously Optimized**. PO's own files are licensed under the BSD 3-Clause License,
+Copyright (c) 2026, yangdawn (DonQuaan) — https://github.com/DonQuaan/Promethium-Optimized/blob/main/LICENSE
 
 ## Mods, shaders and resource packs
 PO does **not** redistribute third-party mods, shaders or resource packs. The files in `mods/`,

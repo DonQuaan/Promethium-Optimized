@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "THIRD-PARTY.md"
-hash = "1c3d1b932ec6a817fb5bf7bf1010a46700bcb2bce658117cb44baebfd26ffa09"
+hash = "855a841b7d409be50aa03ab5d0d9093ba535993a04bfa155809d5326aa1ed686"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"

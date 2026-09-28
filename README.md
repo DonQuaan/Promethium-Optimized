@@ -56,4 +56,4 @@ packwiz curseforge export   # 1.x tags → CurseForge .zip
 
 - Built on and adapted from **Fabulously Optimized** (BSD-3-Clause, © 2020-2026 Fabulously Optimized Authors) — full notice in [`pack/THIRD-PARTY.md`](pack/THIRD-PARTY.md). Fabulously Optimized does not endorse this project.
 - Every mod, shader and resource pack belongs to its author and keeps its own license.
-- PO's own configuration and documentation: © yangdawn (DonQuaan). No open-source license has been chosen for them yet.
+- PO's own configuration, packwiz metadata and documentation: [BSD-3-Clause](LICENSE), © 2026 yangdawn (DonQuaan) — from 2.0.0-alpha.3 on; earlier tags carry no license file.
