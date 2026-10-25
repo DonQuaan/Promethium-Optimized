@@ -2,6 +2,23 @@
 
 Computed from each version's packwiz metadata. Dates: CurseForge publish date (1.x releases), file timestamps (1.2.2, estimated), commit date (2.0 alphas).
 
+## [2.1.0-beta.1](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.1.0-beta.1) — 2026-10-25 — beta
+
+Minecraft 1.21.1 · Fabric Loader 0.19.3 · 29 mods
+
+- **Tuned defaults.** Until now PO shipped every mod on its author's defaults. Configuration now comes from Fabulously Optimized 6.5.0, which uses the same mod versions, through YOSBR: it applies on first launch only, and later updates keep your own settings.
+  - Sodium: fast weather. Dynamic FPS: no native download, garbage collection while unfocused or hidden. MoreCulling: cloud, sign text, rain, leaves, item frame, powder snow, end gateway and beacon beam culling. Debugify, Remove Reloading Screen, Iris (shadow render distance 6), Mod Menu (update checker off).
+  - `options.txt`: VSync off, unlimited FPS, simulation distance 6, onboarding and telemetry prompts off.
+- **FrameGen 1.3:** frame generation by reprojection, up to 8×. On by default at 2×, paused while a menu is open; toggle key in *Controls*, settings in *Options → FrameGen…*. It multiplies frames, not performance: most useful with shaders or low base FPS.
+- **Ixeris 4.6.10:** buffered raw input and threaded event polling.
+- Fabulously Optimized 1.21.1 (6.5.0) has no newer mod than PO, so nothing else was taken. Rejected: Better Block Entities (requires Sodium 0.8.12, breaks Enhanced Block Entities).
+- The `.mrpack` embeds the FrameGen jar (LGPL-3.0-or-later), which is published on CurseForge only; see `THIRD-PARTY.md`.
+- Tested: launch → singleplayer world → exit on Windows 11, RTX 4060 Laptop, Java 25; no mixin errors, FrameGen up to 8× and Ixeris event thread active.
+
+- **Added (3):** FrameGen, Ixeris, Your Options Shall Be Respected (YOSBR)
+- **Removed (0):** —
+- **Updated (0):** —
+
 ## [2.0.0-alpha.3](https://github.com/DonQuaan/Promethium-Optimized/releases/tag/v2.0.0-alpha.3) — 2026-09-28 — alpha
 
 Minecraft 1.21.1 · Fabric Loader 0.19.3 · 26 mods
