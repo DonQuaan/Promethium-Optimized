@@ -5,6 +5,38 @@ file = "THIRD-PARTY.md"
 hash = "855a841b7d409be50aa03ab5d0d9093ba535993a04bfa155809d5326aa1ed686"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "93fc7a6a3e64ffb2e78a5830cfa026c39a4ae8f01b46dadf301843fefc688fbd"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3e95a6e59cc94b1048390cdf43b0f02f810c458bb267510c4193115350d1cbef"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "a3de2232bc0658102e574ad77173460d95eb8e297cbf08ed654c5c7b0447625c"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
+
+[[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "f1ba18775450707d5898eea510b00d2f9c9d3ec2ff69ee2e6b715962773c9b63"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "4ec511bfd7441153479e3818ffe86ac53b61edb7ee0df01b4796b7e63fbc33fd"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "7efac2c51e187ad68f2472d327bc715e26ba73983d9cc9213ef3454843957ab2"
 metafile = true
@@ -62,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c86e0fe57fbe042c8444a9c63933e89b5fdd50f325bb8a9796d0e7cca8735c89"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "ff1efabc9152927ea6e8857907c25207963f47467cb676fe834d0dda10b6e903"
 metafile = true
 
 [[files]]
@@ -132,4 +169,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "a560c3f3e91d236b3d5db6921b931e44f8dbb3d6bd887d136146691a78b903ac"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true

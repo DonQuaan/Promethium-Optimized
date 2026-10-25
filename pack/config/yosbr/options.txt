@@ -1,0 +1,13 @@
+version:3955
+enableVsync:false
+maxFps:260
+simulationDistance:6
+onboardAccessibility:false
+joinedFirstServer:true
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+resourcePacks:["vanilla","fabric"]
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
