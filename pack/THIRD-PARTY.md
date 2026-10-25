@@ -9,6 +9,15 @@ PO does **not** redistribute third-party mods, shaders or resource packs. The fi
 `resourcepacks/` and `shaderpacks/` are packwiz metadata (project/file IDs + hashes); your launcher downloads
 each file from its original host (CurseForge or Modrinth) under that author's own license.
 
+### Exception: FrameGen (`.mrpack` only)
+FrameGen is published on CurseForge only, so the Modrinth-format `.mrpack` carries its unmodified jar in
+`client-overrides/mods/framegen-1.3-fabric-1.21.1.jar`. The CurseForge edition of PO does not include the jar;
+the CurseForge app downloads it from CurseForge (project 1681782, file 8940695).
+
+- FrameGen 1.3 by Screamix — https://www.curseforge.com/minecraft/mc-mods/framegen
+- License: GNU Lesser General Public License v3.0 or later — https://www.gnu.org/licenses/lgpl-3.0.html
+- Corresponding source: https://github.com/Screamix1/FrameGen
+
 ## Fabulously Optimized
 Pack structure, part of the configuration originate from
 Fabulously Optimized — https://github.com/Fabulously-Optimized/fabulously-optimized — licensed under the

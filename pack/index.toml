@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "THIRD-PARTY.md"
-hash = "855a841b7d409be50aa03ab5d0d9093ba535993a04bfa155809d5326aa1ed686"
+hash = "fb1433cc9e30983cfb8dd04867e37b03d8aad0e8d68ca5995507d4b019121c58"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -84,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "d4f846bdcf638a1c3f85559fa4819df724ef4ccb0a93e2d716b8e2e396ed772b"
+metafile = true
+
+[[files]]
+file = "mods/framegen.pw.toml"
+hash = "8ab554440adeee02f9a0e82553e67000b54dbb9b2fef0b249bdaf8001776db67"
 metafile = true
 
 [[files]]
