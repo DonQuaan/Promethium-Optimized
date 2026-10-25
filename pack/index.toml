@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "ff1efabc9152927ea6e8857907c25207963f47467cb676fe834d0dda10b6e903"
+hash = "b3b952c428b252390ae8ddc4450d49e5b0cbe947a214ba4774e1598132c835bf"
 metafile = true
 
 [[files]]
@@ -178,5 +178,5 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
